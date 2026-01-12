@@ -1,4 +1,3 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW82c2M4a3hsejNncm15cGg4dHFjd3l6Mnd5MmF4OTN5cmJiZzYyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="250" align="right">
 <p align="left">
   
 ## <👾> About Me </👾>
@@ -8,7 +7,6 @@
 <br/>
 
 ## <🛠> Tech Stack </🛠>
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,figma)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,docker)](https://skillicons.dev)
@@ -18,6 +16,7 @@
 <br/>
 
 ## <🌱> GitHub Status </🌱>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW82c2M4a3hsejNncm15cGg4dHFjd3l6Mnd5MmF4OTN5cmJiZzYyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="200" align="right">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neuro-chan&theme=2077)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neuro-chan&layout=compact)
