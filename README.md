@@ -18,5 +18,6 @@
 ## <🌱> GitHub Status </🌱>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neuro-chan&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neuro-chan&theme=tokyonight)
+
 
