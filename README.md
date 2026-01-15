@@ -1,8 +1,14 @@
 <p align="left">
   
 ## 👾 About Me 
-<samp>I’m transitioning from global customer support to web engineering and working toward becoming a full-stack developer.
-</p></samp>
+
+💻 Switching from Global CS → Web Dev
+
+🌱 Learning PHP / Laravel / React
+
+🎯 Working toward becoming a full-stack engineer by building small web apps and portfolio projects
+
+
 <br/>
 
 ## 🛠 Tech Stack
